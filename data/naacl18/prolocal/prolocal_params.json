@@ -32,7 +32,7 @@
   },
 
   "trainer": {
-    "num_epochs": 2000,
+    "num_epochs": 1,
     "grad_clipping": 1.0,
     "patience": 100,
     "validation_metric": "+combined_metric", //"-loss",
